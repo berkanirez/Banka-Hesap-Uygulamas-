@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banka Hesap Uygulaması", "Banka Hesap Uygulaması\Banka Hesap Uygulaması.csproj", "{DCE2774C-62CF-43A8-879B-DC541B234F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE2774C-62CF-43A8-879B-DC541B234F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE2774C-62CF-43A8-879B-DC541B234F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE2774C-62CF-43A8-879B-DC541B234F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE2774C-62CF-43A8-879B-DC541B234F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0AD5010-149C-42CB-88EF-9765CC41AF14}
+	EndGlobalSection
+EndGlobal
